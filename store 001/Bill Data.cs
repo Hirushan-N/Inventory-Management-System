@@ -127,5 +127,10 @@ namespace store_001
                 this.WindowState = FormWindowState.Maximized;
             }
         }
+
+        private void txtID_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
